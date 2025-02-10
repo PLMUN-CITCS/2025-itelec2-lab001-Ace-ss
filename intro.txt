@@ -1,4 +1,3 @@
-print("Hello world!")
-print("Name: [John Ace Pascual]")
-print("Course: [BSIT]")
-print("Interests in programming: [Python]")
+Name: [John Ace Pascual]
+Course: [BSIT]
+Interests in programming: [Python]
